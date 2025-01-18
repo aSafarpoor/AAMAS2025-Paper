@@ -1,3 +1,6 @@
+""More-Efficient-Sybil-Detection-Mechanisms-Leveraging-Resistance-of-Users-to-Attack-Requests""
+
+
 # Instructions for Running the Code
 
 ## 1. Run `synthesize_dataset.py`
